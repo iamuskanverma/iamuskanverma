@@ -4,13 +4,8 @@
 <p align="center"><a href="https://cwallet.com/t/6WRU66R5"> <img src="https://img.shields.io/badge/Buy%20Me%20Coffe-green?style=for-the-badge&logo=bitcoin" width="220" height="38.45"/></a></p>
 
 
-Myyself; Muskan Verma, 20y.o from Ayodhya, India.
+Myself; Muskan Verma, 19y.o from Ayodhya, India.
 
-
-
-## Which Language I'm Using /Learning:
-
-!Java(https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 ## How You Can Find Meh And Where!
