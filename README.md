@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello There :wave:, Welcome to my GitHub profile.
 
-<!--
-**iamuskanverma/iamuskanverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">BUY ME A COFFEE</p>
+<p align="center"><a href="https://cwallet.com/t/6WRU66R5"> <img src="https://img.shields.io/badge/Buy%20Me%20Coffe-green?style=for-the-badge&logo=bitcoin" width="220" height="38.45"/></a></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Myyself; Muskan Verma, 20y.o from Ayodhya, India.
+
+
+
+## Which Language I'm Using /Learning:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+## How You Can Find Meh And Where!
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/iamuskanverma)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/iamuskan_verma)
+
+## My Stats
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=iamuskanverma&show_icons=true&theme=radical)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=iamuskanverma&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/ITZ-ZAID)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=iamuskanverma)
