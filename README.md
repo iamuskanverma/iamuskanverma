@@ -10,7 +10,7 @@ Myyself; Muskan Verma, 20y.o from Ayodhya, India.
 
 ## Which Language I'm Using /Learning:
 
-!(https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+!Java(https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 ## How You Can Find Meh And Where!
